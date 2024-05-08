@@ -1,4 +1,4 @@
-Hello, I’m Peter
+Hello, I’m Peter\
 I'm an undergraduate student at Concordia studying Statitics and Computer Science\
 My research interests consist of Statitical Learning and Reinforcement Learning
 
