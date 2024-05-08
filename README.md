@@ -1,6 +1,6 @@
-Hey, I’m Pete,\
-I like math and solving puzzles.\
-Glad you stumbled upon my profile and hope you enjoy your stay!
+Hello, I’m Peter
+I'm an undergraduate student at Concordia studying Statitics and Computer science\
+My research interests consist of Statitical Learning and Reinforcement Learning
 
 <!---
 pverout/pverout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
