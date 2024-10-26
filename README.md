@@ -1,6 +1,7 @@
 Hello, I’m Peter\
-I'm an undergraduate student at Concordia studying Statistics and Computer Science\
-My interest currently lie in ML and quantitative finance\
+Welcome to my Github!\
+I come from an a Actuarial Mathematics background and in the past years I've grown an interest in ML\RL and Finance\
+Enjoy my projects in topics!\
 Email: pveroutis02@gmail.com.
 
 <!---
