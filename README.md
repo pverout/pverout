@@ -1,5 +1,6 @@
 Hello, I’m Peter\
 I'm an undergraduate student at Concordia studying Statistics and Computer Science\
+My interest currently lie in ML and quantitative finance\
 Email: pveroutis02@gmail.com.
 
 <!---
