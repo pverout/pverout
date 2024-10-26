@@ -1,4 +1,5 @@
 Hello, I’m Peter\
+\
 Welcome to my Github!\
 I come from an a Actuarial Mathematics background and in the past years I've grown an interest in ML\RL and Finance\
 Enjoy my projects in topics!\
